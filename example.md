@@ -1,5 +1,6 @@
 ## Examples of syntax and semantic differences of coding styles
 ![image](./Figure/IEexample.png)
+
 Both copies of the code solve the same problem, but the code reflects different syntax and semantic styles.
 
 ### Syntax style differences:
@@ -12,6 +13,8 @@ Both copies of the code solve the same problem, but the code reflects different 
 
 ## Comparative qualitative examples of our model
 ![image](./Figure/model-example.png)
+
+
 The figure shows the personalized code of the same question for the same user under different models. Significant differences are highlighted in red, showing that our model aligns more closely with the overall style of the user's reference code than those of Adapter and L-LDB.
 
 
