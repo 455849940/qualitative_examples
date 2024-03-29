@@ -1,1 +1,0 @@
-![image](./Figure/UserStudyExample.png)
